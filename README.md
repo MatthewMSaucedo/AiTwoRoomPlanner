@@ -3,8 +3,8 @@
 
 To run this Planner, type the following in command line.
 
->swipl
->[utils].
->[tworoomplanner].
->test1.
->test2.
+swipl
+[utils].
+[tworoomplanner].
+test1.
+test2.
